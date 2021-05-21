@@ -142,7 +142,7 @@ dateE = DateEntry(root, width=12, font=('arial', 15, 'bold'))
 dateE.grid(row=0, column=1, padx=7, pady=7)
 
 l = Label(root, text="Product", font=('arial', 15, 'bold'), bg="DodgerBlue2", width=12)
-l.grid(row=1, column=0, padx=7, pady=7)
+l.grid(row=1, column=0, padx=7, pady=7) 
 
 l = Label(root, text="Price", font=('arial', 15, 'bold'), bg="DodgerBlue2", width=12)
 l.grid(row=1, column=1, padx=7, pady=7)
