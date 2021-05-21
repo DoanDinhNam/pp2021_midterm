@@ -5,9 +5,9 @@ Furniture store management system
 Nguyễn Thị Nhàn Ba9-049
 Phạm Lê Thùy Linh Ba9-033
 # Tools
-python 3.9
-pycharm
-web dbdiagram.io (to run database diagram )
-powperpoint editer 
+python 3.9,
+pycharm,
+web dbdiagram.io (to run database diagram ),
+powperpoint editer ,
 sqlite3
 
